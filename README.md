@@ -11,7 +11,7 @@
 > Versions 
 
 - [Soft UI Design System PRO](http://bit.ly/3730QW3) - Original (HTML) Version, hosted by Creative-Tim
-- [Soft UI Design System PRO - Eleventy](https://bit.ly/3tS4yf2) - 11ty Verison, provided by [AppSeed](https://appseed.us)
+- [Soft UI Design System PRO - Eleventy](https://bit.ly/3tS4yf2) - 11ty Version, provided by [AppSeed](https://appseed.us)
 
 <br />
 
