@@ -36,6 +36,7 @@ Designed for those who like bold elements and beautiful websites. Made of hundre
 
 **Sample Pages** - If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project. 
 
+<br />
 
 ## [Soft UI Design System - Eleventy](https://bit.ly/3tS4yf2)
 
@@ -46,7 +47,7 @@ Provided by AppSeed on top of modern boilerplate code, enhanced with modern tool
 - JS Bundling (Webpack)
 - SVG Icon Sprite Generation
 - Critical CSS, HTML Minification
-- Support via **Github** and [Discord](https://discord.gg/fZC6hup).
+- Support via **Github** and [Discord](https://discord.gg/fZC6hup) - 24/7 LIVE Service
 
 <br />
 
