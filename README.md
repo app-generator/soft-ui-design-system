@@ -1,21 +1,23 @@
-# [Soft UI Design System PRO](http://bit.ly/3730QW3)
+# [Soft UI Design System](https://appseed.us/ui-kit/soft-ui-design-system)
 
 > Premium Bootstrap 5 UI Kit designed by [Creative-Tim](https://bit.ly/3fKQZaL).
 
 <br />
 
-**[Soft UI Design System](http://bit.ly/3730QW3)** is built with over 300 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
+**[Soft UI Design System](https://appseed.us/ui-kit/soft-ui-design-system)** is built with over 300 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
 
 <br />
 
 > Versions 
 
-- [Soft UI Design System PRO](http://bit.ly/3730QW3) - Original (HTML) Version, hosted by Creative-Tim
-- [Soft UI Design System PRO - Eleventy](https://bit.ly/3tS4yf2) - 11ty Version, provided by [AppSeed](https://appseed.us)
+- [Soft UI Design System](http://bit.ly/3730QW3) - Original (HTML) Version, hosted by Creative-Tim
+- [Soft UI Design System - Eleventy](https://appseed.us/product/eleventy-soft-ui-pro) - 11ty Version, provided by [AppSeed](https://appseed.us)
+- [Soft UI Design System - Flask](https://appseed.us/product/flask-soft-ui-pro) - 11ty Version, provided by [AppSeed](https://appseed.us)
+- [Soft UI Design System - Django](https://appseed.us/product/django-soft-ui-pro) - 11ty Version, provided by [AppSeed](https://appseed.us)
 
 <br />
 
-![Soft UI Design System PRO - Premium Bootstrap 5 UI Kit designed by Creative-Tim.](https://raw.githubusercontent.com/app-generator/soft-ui-design-system/main/media/soft-ui-design-system-intro.gif)
+![Soft UI Design System - Premium Bootstrap 5 UI Kit designed by Creative-Tim.](https://raw.githubusercontent.com/app-generator/soft-ui-design-system/main/media/soft-ui-design-system-intro.gif)
 
 <br />
 
@@ -98,4 +100,4 @@ Provided by AppSeed on top of modern boilerplate code, enhanced with modern tool
 <br />
 
 ---
-[Soft UI Design System PRO](http://bit.ly/3730QW3) - Premium Bootstrap 5 UI Kit designed by [Creative-Tim](https://bit.ly/3fKQZaL).
+[Soft UI Design System](https://appseed.us/ui-kit/soft-ui-design-system) - Premium Bootstrap 5 UI Kit designed by [Creative-Tim](https://bit.ly/3fKQZaL).
