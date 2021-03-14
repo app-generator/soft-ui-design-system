@@ -21,7 +21,7 @@
 
 <br />
 
-> Soft UI - Available Pages and Sections 
+> Available Pages and Sections 
 
 - Landing Pages: [Coworking](https://eleventy-soft-ui-pro.appseed-srv1.com/pages/coworking/), [Rental](https://eleventy-soft-ui-pro.appseed-srv1.com/pages/rental/), [Case Study](https://eleventy-soft-ui-pro.appseed-srv1.com/pages/case-study/)
 - Company: [About](https://eleventy-soft-ui-pro.appseed-srv1.com/pages/about-us/), [Pricing](https://eleventy-soft-ui-pro.appseed-srv1.com/pages/pricing/), [Career](https://eleventy-soft-ui-pro.appseed-srv1.com/pages/career/), [Work with us](https://eleventy-soft-ui-pro.appseed-srv1.com/pages/work-with-us/)
@@ -38,7 +38,7 @@
 
 ## Product Description
 
-**Soft UI Design System** is the most complex and innovative Design System Made by Creative Tim - the product has also a free version released under the MIT License. 
+**[Soft UI Design System](https://blog.appseed.us/soft-ui-design-system-bootstrap-5-design-z91/)** is the most complex and innovative Design System Made by Creative Tim - the product has also a free version released under the MIT License. 
 
 <br />
 
