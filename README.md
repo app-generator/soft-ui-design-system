@@ -1,15 +1,23 @@
 # [Soft UI Design System](https://appseed.us/ui-kit/soft-ui-design-system)
 
-**[Soft UI Design System](https://appseed.us/ui-kit/soft-ui-design-system)** is a Premium Bootstrap 5 UI Kit designed by [Creative-Tim](https://bit.ly/3fKQZaL) Designed for those who like bold elements and beautiful websites. **Soft UI Design System** is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. This Freebie Bootstrap 5 UI Kit is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+**[Soft UI Design System](https://appseed.us/ui-kit/soft-ui-design-system)** is a Premium Bootstrap 5 UI Kit designed by [Creative-Tim](https://bit.ly/3fKQZaL) Designed for those who like bold elements and beautiful websites, **Soft UI Design System** is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. This Freebie Bootstrap 5 UI Kit is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
 
 <br />
 
-> Versions 
+> Open-source Versions 
 
-- [Soft UI Design System](http://bit.ly/3730QW3) - Original (HTML) Version, hosted by Creative-Tim
-- [Soft UI Design System - Eleventy](https://appseed.us/product/eleventy-soft-ui-pro) - 11ty version, provided by [AppSeed](https://appseed.us)
-- [Soft UI Design System - Flask](https://appseed.us/product/flask-soft-ui-pro) - Flask version, provided by [AppSeed](https://appseed.us)
-- [Soft UI Design System - Django](https://appseed.us/product/django-soft-ui-pro) - Django version, provided by [AppSeed](https://appseed.us)
+- (Free) [Soft UI Design System](http://bit.ly/3v6JYIe) - Bootstrap 5 Version, hosted by Creative-Tim
+- (Free) [Soft UI Design System - Flask](https://appseed.us/product/flask-soft-ui-design-system) - product page
+- (Free) [Soft UI Design System - Django](https://appseed.us/product/django-soft-ui-design-system) - product page
+
+<br />
+
+> Commercial Versions 
+
+- [Soft UI Design System PRO](http://bit.ly/3730QW3) - Bootstrap 5 Version, hosted by Creative-Tim
+- [Soft UI Design System PRO - Eleventy](https://appseed.us/product/eleventy-soft-ui-pro) - product page
+- [Soft UI Design System PRO - Flask](https://appseed.us/product/flask-soft-ui-pro) - product page
+- [Soft UI Design System PRO - Django](https://appseed.us/product/django-soft-ui-pro) - product page
 
 <br />
 
@@ -56,6 +64,29 @@ Provided by AppSeed on top of modern boilerplate code, enhanced with modern tool
 - SVG Icon Sprite Generation
 - Critical CSS, HTML Minification
 - Support via **Github** and [Discord](https://discord.gg/fZC6hup) - 24/7 LIVE Service
+
+<br />
+
+## [Soft UI Design System - Flask](https://appseed.us/product/flask-soft-ui-design-system)
+
+Provided by AppSeed on top of modern boilerplate code, enhanced with modern tooling and deployment scripts - Features:  
+
+- SQLite database, Flask-SQLAlchemy ORM
+- Session-Based auth flow (login, register)
+- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
+- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
+
+<br />
+
+## [Soft UI Design System - Django](https://appseed.us/product/django-soft-ui-design-system)
+
+Provided by AppSeed on top of modern boilerplate code, enhanced with modern tooling and deployment scripts - Features:  
+
+- SQLite Database, Django Native ORM
+- Modular design, clean codebase
+- Session-Based Authentication, Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx
+- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 <br />
 
